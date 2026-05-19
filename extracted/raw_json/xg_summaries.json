@@ -1,0 +1,1444 @@
+[
+  {
+    "match_id": "mt_028978181",
+    "np_xg_live_home": 0.207,
+    "np_xg_live_away": 0.393,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_732012426",
+    "np_xg_live_home": 1.469,
+    "np_xg_live_away": 0.52,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_465195056",
+    "np_xg_live_home": 2.096,
+    "np_xg_live_away": 0.864,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_894624320",
+    "np_xg_live_home": 1.355,
+    "np_xg_live_away": 1.529,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_732012410",
+    "np_xg_live_home": 2.173,
+    "np_xg_live_away": 2.204,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_894624346",
+    "np_xg_live_home": 0.522,
+    "np_xg_live_away": 0.953,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_517367888",
+    "np_xg_live_home": 1.055,
+    "np_xg_live_away": 0.887,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_209839553",
+    "np_xg_live_home": 1.267,
+    "np_xg_live_away": 0.626,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_153743948",
+    "np_xg_live_home": 2.1,
+    "np_xg_live_away": 1.151,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_209839532",
+    "np_xg_live_home": 1.168,
+    "np_xg_live_away": 1.97,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_370250037",
+    "np_xg_live_home": 1.683,
+    "np_xg_live_away": 0.409,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_517367866",
+    "np_xg_live_home": 0.906,
+    "np_xg_live_away": 2.285,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_465195090",
+    "np_xg_live_home": 3.284,
+    "np_xg_live_away": 0.649,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_986406699",
+    "np_xg_live_home": 1.032,
+    "np_xg_live_away": 0.464,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_028978178",
+    "np_xg_live_home": 1.199,
+    "np_xg_live_away": 0.643,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_209839921",
+    "np_xg_live_home": 0.549,
+    "np_xg_live_away": 1.087,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_153743317",
+    "np_xg_live_home": 1.022,
+    "np_xg_live_away": 1.09,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_370250658",
+    "np_xg_live_home": 1.199,
+    "np_xg_live_away": 0.557,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_732012275",
+    "np_xg_live_home": 1.416,
+    "np_xg_live_away": 0.311,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_641581284",
+    "np_xg_live_home": 0.759,
+    "np_xg_live_away": 0.258,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_732012269",
+    "np_xg_live_home": 1.915,
+    "np_xg_live_away": 0.56,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_209839918",
+    "np_xg_live_home": 1.655,
+    "np_xg_live_away": 0.45,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_153743931",
+    "np_xg_live_home": 0.41,
+    "np_xg_live_away": 0.334,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_028978807",
+    "np_xg_live_home": 1.05,
+    "np_xg_live_away": 1.154,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_986406633",
+    "np_xg_live_home": 1.3,
+    "np_xg_live_away": 0.641,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_517367795",
+    "np_xg_live_home": 1.237,
+    "np_xg_live_away": 1.648,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_894624485",
+    "np_xg_live_home": 1.846,
+    "np_xg_live_away": 0.484,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_465195545",
+    "np_xg_live_home": 0.569,
+    "np_xg_live_away": 0.17,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_153743386",
+    "np_xg_live_home": 1.581,
+    "np_xg_live_away": 2.556,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_641581162",
+    "np_xg_live_home": 0.262,
+    "np_xg_live_away": 1.109,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_986406644",
+    "np_xg_live_home": 0.549,
+    "np_xg_live_away": 0.666,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_641581101",
+    "np_xg_live_home": 2.089,
+    "np_xg_live_away": 0.593,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_641581158",
+    "np_xg_live_home": 1.149,
+    "np_xg_live_away": 2.483,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_894624463",
+    "np_xg_live_home": 1.51,
+    "np_xg_live_away": 1.045,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_517367877",
+    "np_xg_live_home": 1.275,
+    "np_xg_live_away": 0.182,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_641581213",
+    "np_xg_live_home": 0.893,
+    "np_xg_live_away": 0.225,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_153743370",
+    "np_xg_live_home": 1.325,
+    "np_xg_live_away": 0.728,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_465195529",
+    "np_xg_live_home": 1.264,
+    "np_xg_live_away": 1.162,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_986406760",
+    "np_xg_live_home": 0.715,
+    "np_xg_live_away": 1.252,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_370250046",
+    "np_xg_live_home": 1.025,
+    "np_xg_live_away": 0.668,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_465195584",
+    "np_xg_live_home": 0.699,
+    "np_xg_live_away": 1.222,
+    "np_xg_stored_home": 0.7,
+    "np_xg_stored_away": 1.22
+  },
+  {
+    "match_id": "mt_894624479",
+    "np_xg_live_home": 0.59,
+    "np_xg_live_away": 1.854,
+    "np_xg_stored_home": 0.59,
+    "np_xg_stored_away": 1.85
+  },
+  {
+    "match_id": "mt_732012203",
+    "np_xg_live_home": 0.875,
+    "np_xg_live_away": 0.371,
+    "np_xg_stored_home": 0.88,
+    "np_xg_stored_away": 0.37
+  },
+  {
+    "match_id": "mt_209839987",
+    "np_xg_live_home": 1.329,
+    "np_xg_live_away": 0.411,
+    "np_xg_stored_home": 1.47,
+    "np_xg_stored_away": 0.27
+  },
+  {
+    "match_id": "mt_517367899",
+    "np_xg_live_home": 1.276,
+    "np_xg_live_away": 0.712,
+    "np_xg_stored_home": 1.28,
+    "np_xg_stored_away": 0.71
+  },
+  {
+    "match_id": "mt_517367743",
+    "np_xg_live_home": 1.268,
+    "np_xg_live_away": 0.427,
+    "np_xg_stored_home": 1.27,
+    "np_xg_stored_away": 0.43
+  },
+  {
+    "match_id": "mt_517367739",
+    "np_xg_live_home": 2.072,
+    "np_xg_live_away": 0.668,
+    "np_xg_stored_home": 2.07,
+    "np_xg_stored_away": 0.67
+  },
+  {
+    "match_id": "mt_028978890",
+    "np_xg_live_home": 2.158,
+    "np_xg_live_away": 1.131,
+    "np_xg_stored_home": 2.16,
+    "np_xg_stored_away": 1.13
+  },
+  {
+    "match_id": "mt_370250020",
+    "np_xg_live_home": 0.68,
+    "np_xg_live_away": 1.385,
+    "np_xg_stored_home": 0.68,
+    "np_xg_stored_away": 1.39
+  },
+  {
+    "match_id": "mt_028978835",
+    "np_xg_live_home": 1.226,
+    "np_xg_live_away": 1.447,
+    "np_xg_stored_home": 1.23,
+    "np_xg_stored_away": 1.45
+  },
+  {
+    "match_id": "mt_732019510",
+    "np_xg_live_home": 1.854,
+    "np_xg_live_away": 0.264,
+    "np_xg_stored_home": 1.85,
+    "np_xg_stored_away": 0.26
+  },
+  {
+    "match_id": "mt_894625020",
+    "np_xg_live_home": 0.635,
+    "np_xg_live_away": 0.595,
+    "np_xg_stored_home": 0.64,
+    "np_xg_stored_away": 0.6
+  },
+  {
+    "match_id": "mt_986406734",
+    "np_xg_live_home": 2.055,
+    "np_xg_live_away": 1.743,
+    "np_xg_stored_home": 2.06,
+    "np_xg_stored_away": 1.74
+  },
+  {
+    "match_id": "mt_370258158",
+    "np_xg_live_home": 1.327,
+    "np_xg_live_away": 0.431,
+    "np_xg_stored_home": 1.33,
+    "np_xg_stored_away": 0.43
+  },
+  {
+    "match_id": "mt_465197890",
+    "np_xg_live_home": 1.873,
+    "np_xg_live_away": 0.56,
+    "np_xg_stored_home": 1.87,
+    "np_xg_stored_away": 0.56
+  },
+  {
+    "match_id": "mt_986401260",
+    "np_xg_live_home": 1.603,
+    "np_xg_live_away": 0.492,
+    "np_xg_stored_home": 1.5,
+    "np_xg_stored_away": 0.59
+  },
+  {
+    "match_id": "mt_517362477",
+    "np_xg_live_home": 1.156,
+    "np_xg_live_away": 0.556,
+    "np_xg_stored_home": 1.16,
+    "np_xg_stored_away": 0.56
+  },
+  {
+    "match_id": "mt_153740648",
+    "np_xg_live_home": 1.97,
+    "np_xg_live_away": 0.124,
+    "np_xg_stored_home": 1.97,
+    "np_xg_stored_away": 0.12
+  },
+  {
+    "match_id": "mt_209836732",
+    "np_xg_live_home": 1.017,
+    "np_xg_live_away": 0.863,
+    "np_xg_stored_home": 1.02,
+    "np_xg_stored_away": 0.86
+  },
+  {
+    "match_id": "mt_641583984",
+    "np_xg_live_home": 1.883,
+    "np_xg_live_away": 0.947,
+    "np_xg_stored_home": 1.88,
+    "np_xg_stored_away": 0.95
+  },
+  {
+    "match_id": "mt_159040106",
+    "np_xg_live_home": 1.424,
+    "np_xg_live_away": 0.865,
+    "np_xg_stored_home": 1.42,
+    "np_xg_stored_away": 0.87
+  },
+  {
+    "match_id": "mt_894625585",
+    "np_xg_live_home": 1.428,
+    "np_xg_live_away": 0.36,
+    "np_xg_stored_home": 1.43,
+    "np_xg_stored_away": 0.36
+  },
+  {
+    "match_id": "mt_209836621",
+    "np_xg_live_home": 3.045,
+    "np_xg_live_away": 0.464,
+    "np_xg_stored_home": 3.05,
+    "np_xg_stored_away": 0.46
+  },
+  {
+    "match_id": "mt_517362466",
+    "np_xg_live_home": 0.806,
+    "np_xg_live_away": 1.045,
+    "np_xg_stored_home": 0.81,
+    "np_xg_stored_away": 1.05
+  },
+  {
+    "match_id": "mt_028974378",
+    "np_xg_live_home": 1.558,
+    "np_xg_live_away": 0.652,
+    "np_xg_stored_home": 1.56,
+    "np_xg_stored_away": 0.65
+  },
+  {
+    "match_id": "mt_153740017",
+    "np_xg_live_home": 1.11,
+    "np_xg_live_away": 0.124,
+    "np_xg_stored_home": 1.11,
+    "np_xg_stored_away": 0.12
+  },
+  {
+    "match_id": "mt_986401199",
+    "np_xg_live_home": 0.861,
+    "np_xg_live_away": 0.131,
+    "np_xg_stored_home": 0.86,
+    "np_xg_stored_away": 0.13
+  },
+  {
+    "match_id": "mt_641583362",
+    "np_xg_live_home": 1.509,
+    "np_xg_live_away": 0.553,
+    "np_xg_stored_home": 1.51,
+    "np_xg_stored_away": 0.55
+  },
+  {
+    "match_id": "mt_370258837",
+    "np_xg_live_home": 0.04,
+    "np_xg_live_away": 0.135,
+    "np_xg_stored_home": 0.04,
+    "np_xg_stored_away": 0.14
+  },
+  {
+    "match_id": "mt_465197745",
+    "np_xg_live_home": 0.706,
+    "np_xg_live_away": 1.693,
+    "np_xg_stored_home": 0.71,
+    "np_xg_stored_away": 1.69
+  },
+  {
+    "match_id": "mt_732019975",
+    "np_xg_live_home": 1.457,
+    "np_xg_live_away": 0.396,
+    "np_xg_stored_home": 1.46,
+    "np_xg_stored_away": 0.4
+  },
+  {
+    "match_id": "mt_028974407",
+    "np_xg_live_home": 0.698,
+    "np_xg_live_away": 1.139,
+    "np_xg_stored_home": 0.7,
+    "np_xg_stored_away": 1.14
+  },
+  {
+    "match_id": "mt_465197729",
+    "np_xg_live_home": 0.733,
+    "np_xg_live_away": 0.634,
+    "np_xg_stored_home": 0.73,
+    "np_xg_stored_away": 0.63
+  },
+  {
+    "match_id": "mt_209836618",
+    "np_xg_live_home": 1.285,
+    "np_xg_live_away": 0.412,
+    "np_xg_stored_home": 1.13,
+    "np_xg_stored_away": 0.57
+  },
+  {
+    "match_id": "mt_370258846",
+    "np_xg_live_home": 0.402,
+    "np_xg_live_away": 1.279,
+    "np_xg_stored_home": 0.5,
+    "np_xg_stored_away": 1.18
+  },
+  {
+    "match_id": "mt_641583301",
+    "np_xg_live_home": 0.994,
+    "np_xg_live_away": 0.738,
+    "np_xg_stored_home": 0.99,
+    "np_xg_stored_away": 0.74
+  },
+  {
+    "match_id": "mt_732019969",
+    "np_xg_live_home": 1.602,
+    "np_xg_live_away": 1.073,
+    "np_xg_stored_home": 1.6,
+    "np_xg_stored_away": 1.07
+  },
+  {
+    "match_id": "mt_153740086",
+    "np_xg_live_home": 1.07,
+    "np_xg_live_away": 0.58,
+    "np_xg_stored_home": 1.07,
+    "np_xg_stored_away": 0.58
+  },
+  {
+    "match_id": "mt_986401133",
+    "np_xg_live_home": 0.41,
+    "np_xg_live_away": 1.229,
+    "np_xg_stored_home": 0.36,
+    "np_xg_stored_away": 1.23
+  },
+  {
+    "match_id": "mt_894625579",
+    "np_xg_live_home": 1.709,
+    "np_xg_live_away": 0.596,
+    "np_xg_stored_home": 1.71,
+    "np_xg_stored_away": 0.6
+  },
+  {
+    "match_id": "mt_517362295",
+    "np_xg_live_home": 1.982,
+    "np_xg_live_away": 1.409,
+    "np_xg_stored_home": 1.98,
+    "np_xg_stored_away": 1.35
+  },
+  {
+    "match_id": "mt_028974490",
+    "np_xg_live_home": 0.358,
+    "np_xg_live_away": 0.688,
+    "np_xg_stored_home": 0.36,
+    "np_xg_stored_away": 0.69
+  },
+  {
+    "match_id": "mt_153740070",
+    "np_xg_live_home": 1.288,
+    "np_xg_live_away": 1.322,
+    "np_xg_stored_home": 1.29,
+    "np_xg_stored_away": 1.32
+  },
+  {
+    "match_id": "mt_732019903",
+    "np_xg_live_home": 0.648,
+    "np_xg_live_away": 0.801,
+    "np_xg_stored_home": 0.65,
+    "np_xg_stored_away": 0.8
+  },
+  {
+    "match_id": "mt_986401144",
+    "np_xg_live_home": 0.924,
+    "np_xg_live_away": 0.527,
+    "np_xg_stored_home": 0.92,
+    "np_xg_stored_away": 0.53
+  },
+  {
+    "match_id": "mt_894625563",
+    "np_xg_live_home": 0.517,
+    "np_xg_live_away": 0.449,
+    "np_xg_stored_home": 0.52,
+    "np_xg_stored_away": 0.45
+  },
+  {
+    "match_id": "mt_209836687",
+    "np_xg_live_home": 1.797,
+    "np_xg_live_away": 0.849,
+    "np_xg_stored_home": 1.8,
+    "np_xg_stored_away": 0.85
+  },
+  {
+    "match_id": "mt_465197784",
+    "np_xg_live_home": 2.018,
+    "np_xg_live_away": 0.543,
+    "np_xg_stored_home": 2.02,
+    "np_xg_stored_away": 0.54
+  },
+  {
+    "match_id": "mt_370258820",
+    "np_xg_live_home": 1.029,
+    "np_xg_live_away": 0.333,
+    "np_xg_stored_home": 1.03,
+    "np_xg_stored_away": 0.33
+  },
+  {
+    "match_id": "mt_641583358",
+    "np_xg_live_home": 0.717,
+    "np_xg_live_away": 1.159,
+    "np_xg_stored_home": 0.72,
+    "np_xg_stored_away": 1.16
+  },
+  {
+    "match_id": "mt_517362239",
+    "np_xg_live_home": 0.31,
+    "np_xg_live_away": 0.968,
+    "np_xg_stored_home": 0.31,
+    "np_xg_stored_away": 0.97
+  },
+  {
+    "match_id": "mt_209836676",
+    "np_xg_live_home": 1.434,
+    "np_xg_live_away": 1.62,
+    "np_xg_stored_home": 1.43,
+    "np_xg_stored_away": 1.62
+  },
+  {
+    "match_id": "mt_370258815",
+    "np_xg_live_home": 1.476,
+    "np_xg_live_away": 0.572,
+    "np_xg_stored_home": 1.48,
+    "np_xg_stored_away": 0.57
+  },
+  {
+    "match_id": "mt_641583336",
+    "np_xg_live_home": 1.003,
+    "np_xg_live_away": 0.626,
+    "np_xg_stored_home": 1,
+    "np_xg_stored_away": 0.63
+  },
+  {
+    "match_id": "mt_028974435",
+    "np_xg_live_home": 0.7,
+    "np_xg_live_away": 1.604,
+    "np_xg_stored_home": 0.7,
+    "np_xg_stored_away": 1.6
+  },
+  {
+    "match_id": "mt_465197772",
+    "np_xg_live_home": 1.134,
+    "np_xg_live_away": 0.55,
+    "np_xg_stored_home": 1.13,
+    "np_xg_stored_away": 0.55
+  },
+  {
+    "match_id": "mt_894625504",
+    "np_xg_live_home": 0.725,
+    "np_xg_live_away": 0.547,
+    "np_xg_stored_home": 0.73,
+    "np_xg_stored_away": 0.55
+  },
+  {
+    "match_id": "mt_517362243",
+    "np_xg_live_home": 1.171,
+    "np_xg_live_away": 0.429,
+    "np_xg_stored_home": 1.17,
+    "np_xg_stored_away": 0.43
+  },
+  {
+    "match_id": "mt_153740065",
+    "np_xg_live_home": 0.731,
+    "np_xg_live_away": 1.823,
+    "np_xg_stored_home": 0.73,
+    "np_xg_stored_away": 1.82
+  },
+  {
+    "match_id": "mt_732019954",
+    "np_xg_live_home": 1.503,
+    "np_xg_live_away": 0.942,
+    "np_xg_stored_home": 1.5,
+    "np_xg_stored_away": 0.94
+  },
+  {
+    "match_id": "mt_641583340",
+    "np_xg_live_home": 0.866,
+    "np_xg_live_away": 1.411,
+    "np_xg_stored_home": 0.87,
+    "np_xg_stored_away": 1.41
+  },
+  {
+    "match_id": "mt_209836660",
+    "np_xg_live_home": 0.918,
+    "np_xg_live_away": 0.409,
+    "np_xg_stored_home": 0.92,
+    "np_xg_stored_away": 0.41
+  },
+  {
+    "match_id": "mt_370258873",
+    "np_xg_live_home": 0.493,
+    "np_xg_live_away": 1.146,
+    "np_xg_stored_home": 0.49,
+    "np_xg_stored_away": 1.15
+  },
+  {
+    "match_id": "mt_732019992",
+    "np_xg_live_home": 0.707,
+    "np_xg_live_away": 0.221,
+    "np_xg_stored_home": 0.71,
+    "np_xg_stored_away": 0.22
+  },
+  {
+    "match_id": "mt_986401111",
+    "np_xg_live_home": 0.852,
+    "np_xg_live_away": 0.536,
+    "np_xg_stored_home": 0.85,
+    "np_xg_stored_away": 0.54
+  },
+  {
+    "match_id": "mt_028974449",
+    "np_xg_live_home": 1.41,
+    "np_xg_live_away": 0.877,
+    "np_xg_stored_home": 1.41,
+    "np_xg_stored_away": 0.88
+  },
+  {
+    "match_id": "mt_894625552",
+    "np_xg_live_home": 0.636,
+    "np_xg_live_away": 1.158,
+    "np_xg_stored_home": 0.64,
+    "np_xg_stored_away": 0.95
+  },
+  {
+    "match_id": "mt_370361810",
+    "np_xg_live_home": 1.31,
+    "np_xg_live_away": 0.118,
+    "np_xg_stored_home": 1.16,
+    "np_xg_stored_away": 0.12
+  },
+  {
+    "match_id": "mt_153740053",
+    "np_xg_live_home": 1.882,
+    "np_xg_live_away": 0.883,
+    "np_xg_stored_home": 1.88,
+    "np_xg_stored_away": 0.88
+  },
+  {
+    "match_id": "mt_370258864",
+    "np_xg_live_home": 0.943,
+    "np_xg_live_away": 0.449,
+    "np_xg_stored_home": 0.94,
+    "np_xg_stored_away": 0.45
+  },
+  {
+    "match_id": "mt_028974414",
+    "np_xg_live_home": 1.664,
+    "np_xg_live_away": 0.342,
+    "np_xg_stored_home": 1.66,
+    "np_xg_stored_away": 0.34
+  },
+  {
+    "match_id": "mt_209836605",
+    "np_xg_live_home": 1.291,
+    "np_xg_live_away": 0.732,
+    "np_xg_stored_home": 1.29,
+    "np_xg_stored_away": 0.73
+  },
+  {
+    "match_id": "mt_465197708",
+    "np_xg_live_home": 1.488,
+    "np_xg_live_away": 0.368,
+    "np_xg_stored_home": 1.49,
+    "np_xg_stored_away": 0.37
+  },
+  {
+    "match_id": "mt_641583325",
+    "np_xg_live_home": 2.808,
+    "np_xg_live_away": 0.315,
+    "np_xg_stored_home": 2.81,
+    "np_xg_stored_away": 0.32
+  },
+  {
+    "match_id": "mt_732019931",
+    "np_xg_live_home": 2.661,
+    "np_xg_live_away": 2.143,
+    "np_xg_stored_home": 2.66,
+    "np_xg_stored_away": 2.14
+  },
+  {
+    "match_id": "mt_517362212",
+    "np_xg_live_home": 1.743,
+    "np_xg_live_away": 2.004,
+    "np_xg_stored_home": 1.74,
+    "np_xg_stored_away": 2
+  },
+  {
+    "match_id": "mt_894625538",
+    "np_xg_live_home": 2.863,
+    "np_xg_live_away": 0.817,
+    "np_xg_stored_home": 2.86,
+    "np_xg_stored_away": 0.82
+  },
+  {
+    "match_id": "mt_986401188",
+    "np_xg_live_home": 1.037,
+    "np_xg_live_away": 0.773,
+    "np_xg_stored_home": 1.04,
+    "np_xg_stored_away": 0.77
+  },
+  {
+    "match_id": "mt_732019927",
+    "np_xg_live_home": 0.935,
+    "np_xg_live_away": 2.126,
+    "np_xg_stored_home": 0.94,
+    "np_xg_stored_away": 2.13
+  },
+  {
+    "match_id": "mt_465197757",
+    "np_xg_live_home": 5.019,
+    "np_xg_live_away": 0.317,
+    "np_xg_stored_home": 5.02,
+    "np_xg_stored_away": 0.32
+  },
+  {
+    "match_id": "mt_986401177",
+    "np_xg_live_home": 1.2,
+    "np_xg_live_away": 2.065,
+    "np_xg_stored_home": 1.2,
+    "np_xg_stored_away": 2.07
+  },
+  {
+    "match_id": "mt_153740094",
+    "np_xg_live_home": 2.414,
+    "np_xg_live_away": 1.13,
+    "np_xg_stored_home": 2.41,
+    "np_xg_stored_away": 1.13
+  },
+  {
+    "match_id": "mt_370258802",
+    "np_xg_live_home": 2.012,
+    "np_xg_live_away": 0.784,
+    "np_xg_stored_home": 2.01,
+    "np_xg_stored_away": 0.78
+  },
+  {
+    "match_id": "mt_517362281",
+    "np_xg_live_home": 1.313,
+    "np_xg_live_away": 1.773,
+    "np_xg_stored_home": 1.31,
+    "np_xg_stored_away": 1.77
+  },
+  {
+    "match_id": "mt_641583319",
+    "np_xg_live_home": 1.207,
+    "np_xg_live_away": 0.643,
+    "np_xg_stored_home": 1.21,
+    "np_xg_stored_away": 0.64
+  },
+  {
+    "match_id": "mt_894625547",
+    "np_xg_live_home": 1.514,
+    "np_xg_live_away": 0.404,
+    "np_xg_stored_home": 1.51,
+    "np_xg_stored_away": 0.4
+  },
+  {
+    "match_id": "mt_028974482",
+    "np_xg_live_home": 0.944,
+    "np_xg_live_away": 0.755,
+    "np_xg_stored_home": 0.94,
+    "np_xg_stored_away": 0.76
+  },
+  {
+    "match_id": "mt_465197796",
+    "np_xg_live_home": 1.073,
+    "np_xg_live_away": 1.395,
+    "np_xg_stored_home": 1.07,
+    "np_xg_stored_away": 1.4
+  },
+  {
+    "match_id": "mt_894625526",
+    "np_xg_live_home": 0.692,
+    "np_xg_live_away": 0.538,
+    "np_xg_stored_home": 0.59,
+    "np_xg_stored_away": 0.64
+  },
+  {
+    "match_id": "mt_641583383",
+    "np_xg_live_home": 0.719,
+    "np_xg_live_away": 2.208,
+    "np_xg_stored_home": 0.72,
+    "np_xg_stored_away": 2.21
+  },
+  {
+    "match_id": "mt_517362278",
+    "np_xg_live_home": 1.005,
+    "np_xg_live_away": 1.234,
+    "np_xg_stored_home": 1.01,
+    "np_xg_stored_away": 1.23
+  },
+  {
+    "match_id": "mt_370258851",
+    "np_xg_live_home": 1.687,
+    "np_xg_live_away": 0.748,
+    "np_xg_stored_home": 1.69,
+    "np_xg_stored_away": 0.75
+  },
+  {
+    "match_id": "mt_028974471",
+    "np_xg_live_home": 2.387,
+    "np_xg_live_away": 1.583,
+    "np_xg_stored_home": 2.39,
+    "np_xg_stored_away": 1.58
+  },
+  {
+    "match_id": "mt_153740041",
+    "np_xg_live_home": 2.069,
+    "np_xg_live_away": 1.018,
+    "np_xg_stored_home": 2.07,
+    "np_xg_stored_away": 1.02
+  },
+  {
+    "match_id": "mt_209836693",
+    "np_xg_live_home": 0.253,
+    "np_xg_live_away": 2.638,
+    "np_xg_stored_home": 0.25,
+    "np_xg_stored_away": 2.64
+  },
+  {
+    "match_id": "mt_986401166",
+    "np_xg_live_home": 2.768,
+    "np_xg_live_away": 0.792,
+    "np_xg_stored_home": 2.77,
+    "np_xg_stored_away": 0.79
+  },
+  {
+    "match_id": "mt_732019916",
+    "np_xg_live_home": 0.648,
+    "np_xg_live_away": 1.27,
+    "np_xg_stored_home": 0.55,
+    "np_xg_stored_away": 1.37
+  },
+  {
+    "match_id": "mt_021802902",
+    "np_xg_live_home": 1.776,
+    "np_xg_live_away": 1.044,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_734273055",
+    "np_xg_live_home": 0.838,
+    "np_xg_live_away": 1.61,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_987698429",
+    "np_xg_live_home": 0.985,
+    "np_xg_live_away": 0.339,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_987698496",
+    "np_xg_live_home": 1.198,
+    "np_xg_live_away": 0.534,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_893489605",
+    "np_xg_live_home": 0.898,
+    "np_xg_live_away": 0.556,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_159315767",
+    "np_xg_live_home": 1.496,
+    "np_xg_live_away": 0.404,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_205920871",
+    "np_xg_live_home": 1.645,
+    "np_xg_live_away": 0.792,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_518751358",
+    "np_xg_live_home": 0.819,
+    "np_xg_live_away": 0.755,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_376037217",
+    "np_xg_live_home": 1.295,
+    "np_xg_live_away": 0.991,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_899493084",
+    "np_xg_live_home": 0.661,
+    "np_xg_live_away": 1.063,
+    "np_xg_stored_home": 0.66,
+    "np_xg_stored_away": 1.06
+  },
+  {
+    "match_id": "mt_205920868",
+    "np_xg_live_home": 0.745,
+    "np_xg_live_away": 0.767,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_987698413",
+    "np_xg_live_home": 1.805,
+    "np_xg_live_away": 1.279,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_159315706",
+    "np_xg_live_home": 1.155,
+    "np_xg_live_away": 0.845,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_734273099",
+    "np_xg_live_home": 0.847,
+    "np_xg_live_away": 0.564,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_376037286",
+    "np_xg_live_home": 0,
+    "np_xg_live_away": 0.041,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0.04
+  },
+  {
+    "match_id": "mt_460546185",
+    "np_xg_live_home": 0.79,
+    "np_xg_live_away": 0.472,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_518751325",
+    "np_xg_live_home": 1.357,
+    "np_xg_live_away": 0.533,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_460546179",
+    "np_xg_live_home": 0.802,
+    "np_xg_live_away": 0.852,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_021802937",
+    "np_xg_live_home": 0.823,
+    "np_xg_live_away": 0.44,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_642164548",
+    "np_xg_live_home": 1.829,
+    "np_xg_live_away": 0.719,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_734273033",
+    "np_xg_live_home": 0.774,
+    "np_xg_live_away": 0.921,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_159315750",
+    "np_xg_live_home": 0.227,
+    "np_xg_live_away": 1.443,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_460546104",
+    "np_xg_live_home": 1.221,
+    "np_xg_live_away": 0.433,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_893489693",
+    "np_xg_live_home": 0.985,
+    "np_xg_live_away": 0.76,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_518751319",
+    "np_xg_live_home": 0.882,
+    "np_xg_live_away": 1.08,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_205920807",
+    "np_xg_live_home": 0.415,
+    "np_xg_live_away": 0.739,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_021802920",
+    "np_xg_live_home": 1.185,
+    "np_xg_live_away": 1.023,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_376037270",
+    "np_xg_live_home": 1.167,
+    "np_xg_live_away": 0.312,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_987698484",
+    "np_xg_live_home": 1.078,
+    "np_xg_live_away": 1.33,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_159315795",
+    "np_xg_live_home": 2.748,
+    "np_xg_live_away": 0.281,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_518751383",
+    "np_xg_live_home": 0.394,
+    "np_xg_live_away": 1.059,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_893489634",
+    "np_xg_live_home": 1.024,
+    "np_xg_live_away": 0.413,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_376037265",
+    "np_xg_live_home": 0.256,
+    "np_xg_live_away": 1.96,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_642164516",
+    "np_xg_live_home": 1.078,
+    "np_xg_live_away": 1.46,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_734273044",
+    "np_xg_live_home": 1.492,
+    "np_xg_live_away": 0.758,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_987698472",
+    "np_xg_live_home": 2.169,
+    "np_xg_live_away": 1.082,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_460546152",
+    "np_xg_live_home": 1.949,
+    "np_xg_live_away": 0.798,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_021802915",
+    "np_xg_live_home": 0.803,
+    "np_xg_live_away": 0.238,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_205920856",
+    "np_xg_live_home": 1.663,
+    "np_xg_live_away": 0.691,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0
+  },
+  {
+    "match_id": "mt_159315739",
+    "np_xg_live_home": 1.319,
+    "np_xg_live_away": 0.591,
+    "np_xg_stored_home": 1.32,
+    "np_xg_stored_away": 0.59
+  },
+  {
+    "match_id": "mt_460546191",
+    "np_xg_live_home": 1.249,
+    "np_xg_live_away": 1.376,
+    "np_xg_stored_home": 1.25,
+    "np_xg_stored_away": 1.38
+  },
+  {
+    "match_id": "mt_376037253",
+    "np_xg_live_home": 0.841,
+    "np_xg_live_away": 0.959,
+    "np_xg_stored_home": 0.84,
+    "np_xg_stored_away": 0.96
+  },
+  {
+    "match_id": "mt_642164580",
+    "np_xg_live_home": 1.253,
+    "np_xg_live_away": 1.467,
+    "np_xg_stored_home": 1.25,
+    "np_xg_stored_away": 1.47
+  },
+  {
+    "match_id": "mt_205920890",
+    "np_xg_live_home": 1.916,
+    "np_xg_live_away": 0.167,
+    "np_xg_stored_home": 1.92,
+    "np_xg_stored_away": 0.17
+  },
+  {
+    "match_id": "mt_893489642",
+    "np_xg_live_home": 0.751,
+    "np_xg_live_away": 1.323,
+    "np_xg_stored_home": 0.75,
+    "np_xg_stored_away": 1.32
+  },
+  {
+    "match_id": "mt_021802989",
+    "np_xg_live_home": 1.417,
+    "np_xg_live_away": 1.413,
+    "np_xg_stored_home": 1.42,
+    "np_xg_stored_away": 1.41
+  },
+  {
+    "match_id": "mt_518751374",
+    "np_xg_live_home": 0.945,
+    "np_xg_live_away": 1.359,
+    "np_xg_stored_home": 0.95,
+    "np_xg_stored_away": 1.36
+  },
+  {
+    "match_id": "mt_987698461",
+    "np_xg_live_home": 1.501,
+    "np_xg_live_away": 0.731,
+    "np_xg_stored_home": 1.5,
+    "np_xg_stored_away": 0.73
+  },
+  {
+    "match_id": "mt_734273022",
+    "np_xg_live_home": 0.93,
+    "np_xg_live_away": 1.151,
+    "np_xg_stored_home": 0.93,
+    "np_xg_stored_away": 1.15
+  },
+  {
+    "match_id": "mt_642164965",
+    "np_xg_live_home": 0.779,
+    "np_xg_live_away": 0.916,
+    "np_xg_stored_home": 0.78,
+    "np_xg_stored_away": 0.92
+  },
+  {
+    "match_id": "mt_518751362",
+    "np_xg_live_home": 1.565,
+    "np_xg_live_away": 0.69,
+    "np_xg_stored_home": 1.57,
+    "np_xg_stored_away": 0.69
+  },
+  {
+    "match_id": "mt_205920835",
+    "np_xg_live_home": 1.992,
+    "np_xg_live_away": 0.493,
+    "np_xg_stored_home": 1.99,
+    "np_xg_stored_away": 0.49
+  },
+  {
+    "match_id": "mt_460546848",
+    "np_xg_live_home": 1.512,
+    "np_xg_live_away": 2.033,
+    "np_xg_stored_home": 1.51,
+    "np_xg_stored_away": 2.03
+  },
+  {
+    "match_id": "mt_159315743",
+    "np_xg_live_home": 1.369,
+    "np_xg_live_away": 0.745,
+    "np_xg_stored_home": 1.37,
+    "np_xg_stored_away": 0.75
+  },
+  {
+    "match_id": "mt_893489088",
+    "np_xg_live_home": 1.6,
+    "np_xg_live_away": 1.96,
+    "np_xg_stored_home": 1.6,
+    "np_xg_stored_away": 1.96
+  },
+  {
+    "match_id": "mt_987698408",
+    "np_xg_live_home": 0.661,
+    "np_xg_live_away": 1.511,
+    "np_xg_stored_home": 0.66,
+    "np_xg_stored_away": 1.51
+  },
+  {
+    "match_id": "mt_376037134",
+    "np_xg_live_home": 1.026,
+    "np_xg_live_away": 1.269,
+    "np_xg_stored_home": 1.03,
+    "np_xg_stored_away": 1.27
+  },
+  {
+    "match_id": "mt_734273011",
+    "np_xg_live_home": 0.45,
+    "np_xg_live_away": 0.055,
+    "np_xg_stored_home": 0.45,
+    "np_xg_stored_away": 0.06
+  },
+  {
+    "match_id": "mt_021802973",
+    "np_xg_live_home": 0.517,
+    "np_xg_live_away": 0.228,
+    "np_xg_stored_home": 0.44,
+    "np_xg_stored_away": 0.23
+  },
+  {
+    "match_id": "mt_460546827",
+    "np_xg_live_home": 2.465,
+    "np_xg_live_away": 1.077,
+    "np_xg_stored_home": 2.47,
+    "np_xg_stored_away": 1.08
+  },
+  {
+    "match_id": "mt_734273567",
+    "np_xg_live_home": 0.388,
+    "np_xg_live_away": 1.536,
+    "np_xg_stored_home": 0.39,
+    "np_xg_stored_away": 1.54
+  },
+  {
+    "match_id": "mt_642164909",
+    "np_xg_live_home": 0.8,
+    "np_xg_live_away": 0.519,
+    "np_xg_stored_home": 0.78,
+    "np_xg_stored_away": 0.52
+  },
+  {
+    "match_id": "mt_987698297",
+    "np_xg_live_home": 0.036,
+    "np_xg_live_away": 0.433,
+    "np_xg_stored_home": 0.04,
+    "np_xg_stored_away": 0.43
+  },
+  {
+    "match_id": "mt_205920729",
+    "np_xg_live_home": 1.038,
+    "np_xg_live_away": 0.472,
+    "np_xg_stored_home": 1.04,
+    "np_xg_stored_away": 0.47
+  },
+  {
+    "match_id": "mt_518751451",
+    "np_xg_live_home": 1.546,
+    "np_xg_live_away": 0.746,
+    "np_xg_stored_home": 1.55,
+    "np_xg_stored_away": 0.56
+  },
+  {
+    "match_id": "mt_021802352",
+    "np_xg_live_home": 2.011,
+    "np_xg_live_away": 0.128,
+    "np_xg_stored_home": 2.01,
+    "np_xg_stored_away": 0.13
+  },
+  {
+    "match_id": "mt_376037142",
+    "np_xg_live_home": 2.412,
+    "np_xg_live_away": 0.57,
+    "np_xg_stored_home": 1.9,
+    "np_xg_stored_away": 0.57
+  },
+  {
+    "match_id": "mt_893489077",
+    "np_xg_live_home": 1.036,
+    "np_xg_live_away": 0.243,
+    "np_xg_stored_home": 1.04,
+    "np_xg_stored_away": 0.24
+  },
+  {
+    "match_id": "mt_021802304",
+    "np_xg_live_home": 0,
+    "np_xg_live_away": 0.021,
+    "np_xg_stored_home": 0,
+    "np_xg_stored_away": 0.02
+  }
+]

@@ -1,0 +1,4970 @@
+[
+  {
+    "id": "mt_028978181",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-03T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732012426",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-03T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465195056",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-03T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894624320",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-03T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732012410",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-03T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894624346",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-03T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367888",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-02T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209839553",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-02T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153743948",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-02T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209839532",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 14,
+    "status": "finished",
+    "utc_date": "2026-05-02T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370250037",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367866",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465195090",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986406699",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028978178",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209839921",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153743317",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-26T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370250658",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-25T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732012275",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-25T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "away_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641581284",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 13,
+    "status": "finished",
+    "utc_date": "2026-04-25T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "away_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732012269",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-19T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209839918",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-19T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153743931",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-19T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028978807",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-19T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986406633",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-19T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367795",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-19T14:00:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894624485",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-18T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465195545",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-18T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153743386",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-18T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641581162",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 12,
+    "status": "finished",
+    "utc_date": "2026-04-18T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986406644",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-12T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641581101",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-12T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641581158",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-12T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894624463",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-12T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367877",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-12T14:00:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641581213",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-11T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153743370",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-11T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465195529",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-11T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986406760",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-11T19:30:00.000Z",
+    "home_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370250046",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 11,
+    "status": "finished",
+    "utc_date": "2026-04-11T19:30:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465195584",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894624479",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732012203",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209839987",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367899",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T20:30:00.000Z",
+    "home_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367743",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T20:30:00.000Z",
+    "home_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "away_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517367739",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028978890",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-05T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370250020",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-04T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028978835",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 10,
+    "status": "finished",
+    "utc_date": "2026-04-04T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019510",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-03T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625020",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-03T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986406734",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-02T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258158",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-02T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197890",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-02T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401260",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-01T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362477",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-01T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "away_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740648",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-01T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836732",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-01T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583984",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 9,
+    "status": "finished",
+    "utc_date": "2026-04-01T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "away_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_159040106",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-29T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625585",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836621",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362466",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974378",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740017",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401199",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583362",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258837",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-22T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197745",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-21T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019975",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 8,
+    "status": "finished",
+    "utc_date": "2026-03-21T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974407",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-20T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197729",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-19T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836618",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-19T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "away_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258846",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-19T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583301",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-19T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019969",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-18T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740086",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-18T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401133",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-18T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625579",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-18T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362295",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-03-18T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974490",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-16T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740070",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019903",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401144",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625563",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836687",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197784",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258820",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-15T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583358",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-14T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362239",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-03-14T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836676",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-13T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258815",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-12T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583336",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-12T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974435",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-12T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197772",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-12T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "away_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625504",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-12T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362243",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-11T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "away_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740065",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-11T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "away_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019954",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-03-11T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583340",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-26T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836660",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-26T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258873",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-26T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019992",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-25T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401111",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-25T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974449",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-25T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "away_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625552",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-02-25T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370361810",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-19T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740053",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-13T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258864",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-12T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974414",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-12T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836605",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-12T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197708",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-12T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583325",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-12T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019931",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-11T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362212",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-11T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625538",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-11T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401188",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-02-11T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019927",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-06T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "away_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197757",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-05T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "away_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401177",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-05T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "away_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740094",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-05T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "away_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "score": {
+      "home": 5,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258802",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-05T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "away_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362281",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-04T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "away_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583319",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-04T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "away_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625547",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-04T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "away_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974482",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-02-04T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "away_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_465197796",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-30T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_83640",
+      "name": "Botafogo"
+    },
+    "away_team": {
+      "id": "tm_01988",
+      "name": "Cruzeiro"
+    },
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_894625526",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-29T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_988681",
+      "name": "Mirassol"
+    },
+    "away_team": {
+      "id": "tm_01922",
+      "name": "Vasco da Gama"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_641583383",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-29T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_25869",
+      "name": "São Paulo"
+    },
+    "away_team": {
+      "id": "tm_22917",
+      "name": "Flamengo"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_517362278",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_460410",
+      "name": "Chapecoense"
+    },
+    "away_team": {
+      "id": "tm_83636",
+      "name": "Santos"
+    },
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_370258851",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_36208",
+      "name": "Corinthians"
+    },
+    "away_team": {
+      "id": "tm_40150",
+      "name": "Bahia"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_028974471",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T22:30:00.000Z",
+    "home_team": {
+      "id": "tm_25892",
+      "name": "Fluminense"
+    },
+    "away_team": {
+      "id": "tm_66113",
+      "name": "Grêmio"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_153740041",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_62523",
+      "name": "Internacional"
+    },
+    "away_team": {
+      "id": "tm_36261",
+      "name": "Athletico"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_209836693",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_97417",
+      "name": "Coritiba"
+    },
+    "away_team": {
+      "id": "tm_74002",
+      "name": "Red Bull Bragantino"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_986401166",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_97470",
+      "name": "Vitória"
+    },
+    "away_team": {
+      "id": "tm_97432",
+      "name": "Remo"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_732019916",
+    "competition_id": "comp_4795",
+    "season_id": "sn_8459352",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-01-28T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_36272",
+      "name": "Atlético Mineiro"
+    },
+    "away_team": {
+      "id": "tm_58387",
+      "name": "Palmeiras"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série A"
+  },
+  {
+    "id": "mt_021802902",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-04T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "away_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273055",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-03T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "away_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037228",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-03T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "away_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": false,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698429",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-03T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "away_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698496",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-03T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "away_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_893489605",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-03T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "away_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_159315767",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-03T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "away_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920871",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-02T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "away_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751358",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-02T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "away_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037217",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 7,
+    "status": "finished",
+    "utc_date": "2026-05-02T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "away_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_899493084",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-27T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "away_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920868",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-26T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "away_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698413",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-26T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "away_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_159315706",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-26T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "away_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273099",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-26T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "away_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037286",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-26T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "away_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546185",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-26T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "away_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751325",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-25T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "away_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546179",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-24T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "away_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802937",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 6,
+    "status": "finished",
+    "utc_date": "2026-04-23T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "away_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_642164548",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-19T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "away_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273033",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-19T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "away_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_159315750",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-19T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "away_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546104",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-19T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "away_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_893489693",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-19T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "away_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751319",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-18T23:45:00.000Z",
+    "home_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "away_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920807",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-18T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "away_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802920",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-18T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "away_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037270",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-18T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "away_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698484",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 5,
+    "status": "finished",
+    "utc_date": "2026-04-18T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "away_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_159315795",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-12T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "away_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751383",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-12T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "away_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_893489634",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-12T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "away_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037265",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-12T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "away_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_642164516",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-12T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "away_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273044",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-11T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "away_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698472",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-11T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "away_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546152",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-11T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "away_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802915",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-11T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "away_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920856",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 4,
+    "status": "finished",
+    "utc_date": "2026-04-10T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "away_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_159315739",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-07T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "away_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546191",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-05T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "away_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037253",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-05T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "away_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_642164580",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-05T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "away_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920890",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-05T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "away_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_893489642",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-04T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "away_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802989",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-04T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "away_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751374",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-04T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "away_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698461",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-04T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "away_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273022",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 3,
+    "status": "finished",
+    "utc_date": "2026-04-04T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "away_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_642164965",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-02T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "away_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751362",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-02T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "away_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920835",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-02T00:30:00.000Z",
+    "home_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "away_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546848",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-02T00:00:00.000Z",
+    "home_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "away_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_159315743",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-01T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "away_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_893489088",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-01T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "away_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698408",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-01T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "away_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037134",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-04-01T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "away_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273011",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-03-31T22:00:00.000Z",
+    "home_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "away_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802973",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 2,
+    "status": "finished",
+    "utc_date": "2026-03-31T21:30:00.000Z",
+    "home_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "away_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_460546827",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-22T23:00:00.000Z",
+    "home_team": {
+      "id": "tm_0113078",
+      "name": "Novorizontino"
+    },
+    "away_team": {
+      "id": "tm_97494",
+      "name": "Londrina"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_734273567",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-22T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_19738",
+      "name": "Goiás"
+    },
+    "away_team": {
+      "id": "tm_58318",
+      "name": "América Mineiro"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_642164909",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-22T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_4820525",
+      "name": "Athletic Club"
+    },
+    "away_team": {
+      "id": "tm_74046",
+      "name": "Ponte Preta"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_987698297",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-22T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_25816",
+      "name": "Náutico"
+    },
+    "away_team": {
+      "id": "tm_01944",
+      "name": "Criciúma"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_205920729",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-22T19:00:00.000Z",
+    "home_team": {
+      "id": "tm_455902",
+      "name": "Avaí"
+    },
+    "away_team": {
+      "id": "tm_19704",
+      "name": "Juventude"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_518751451",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-21T23:30:00.000Z",
+    "home_team": {
+      "id": "tm_931189",
+      "name": "Cuiabá"
+    },
+    "away_team": {
+      "id": "tm_74020",
+      "name": "Sport Recife"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802352",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-21T22:15:00.000Z",
+    "home_team": {
+      "id": "tm_74037",
+      "name": "Botafogo-SP"
+    },
+    "away_team": {
+      "id": "tm_19710",
+      "name": "Fortaleza"
+    },
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_376037142",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-21T21:15:00.000Z",
+    "home_team": {
+      "id": "tm_097215",
+      "name": "Operário-PR"
+    },
+    "away_team": {
+      "id": "tm_088719",
+      "name": "Atlético Goianiense"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_893489077",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-21T21:00:00.000Z",
+    "home_team": {
+      "id": "tm_25880",
+      "name": "Ceará"
+    },
+    "away_team": {
+      "id": "tm_051841",
+      "name": "São Bernardo"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  },
+  {
+    "id": "mt_021802304",
+    "competition_id": "comp_1085",
+    "season_id": "sn_1307939",
+    "matchday": 1,
+    "status": "finished",
+    "utc_date": "2026-03-21T20:00:00.000Z",
+    "home_team": {
+      "id": "tm_25827",
+      "name": "Vila Nova FC"
+    },
+    "away_team": {
+      "id": "tm_988700",
+      "name": "CRB"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "odds_available": true,
+    "live_odds_available": false,
+    "xg_available": true,
+    "_competition_name": "Brasileirão Série B"
+  }
+]
