@@ -319,6 +319,7 @@ with tab4:
     st.markdown("Cada bolinha = um jogo. Cor = resultado real. Tamanho = total de gols.")
     plot_df = matches_f.copy()
     plot_df["total_goals"] = plot_df["goals_home"] + plot_df["goals_away"]
+    plot_df["tamanho"] = plot_df["total_goals"].clip(lower=0.5)  # 0x0 também aparece
     plot_df["resultado"] = plot_df["result"].map({
         "H": "Vitória Mandante", "D": "Empate", "A": "Vitória Visitante"
     })
@@ -327,10 +328,10 @@ with tab4:
 
     fig = px.scatter(
         plot_df, x="xg_home", y="xg_away",
-        color="resultado", size="total_goals", size_max=20,
+        color="resultado", size="tamanho", size_max=20,
         hover_name="label",
         hover_data={"xg_home": ":.2f", "xg_away": ":.2f", "total_goals": True,
-                    "resultado": False},
+                    "resultado": False, "tamanho": False},
         color_discrete_map={
             "Vitória Mandante": "#27ae60", "Empate": "#f39c12", "Vitória Visitante": "#c0392b"
         },
