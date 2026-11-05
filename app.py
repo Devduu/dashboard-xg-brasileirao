@@ -165,12 +165,21 @@ with tab2:
         orientation="h",
         color_discrete_map=color_map,
         title="Eficiência ofensiva: Gols feitos − xG feito (média por jogo)",
-        labels={"off_diff_per_game": "Diferença média por jogo (gols)", "team": ""},
+        labels={
+            "off_diff_per_game": "Diferença média por jogo (gols)",
+            "team": "Time",
+            "classificacao": "Classificação",
+            "games": "Jogos",
+            "goals_for": "Gols feitos",
+            "xg_for": "xG feito",
+            "pct_overperform": "% de jogos acima do xG",
+            "p_value": "p-valor",
+        },
         hover_data={"games": True, "goals_for": True, "xg_for": ":.2f",
                     "pct_overperform": ":.0%", "p_value": ":.3f",
                     "off_diff_per_game": False, "classificacao": False},
     )
-    fig.update_layout(height=max(450, 25 * len(df_plot)))
+    fig.update_layout(height=max(450, 25 * len(df_plot)), yaxis_title="")
     fig.add_vline(x=0, line_dash="dot", line_color="black")
     st.plotly_chart(fig, width="stretch")
 
@@ -314,7 +323,12 @@ with tab4:
             "Vitória Mandante": "#27ae60", "Empate": "#f39c12", "Vitória Visitante": "#c0392b"
         },
         title="Expectativa de gols: Mandante × Visitante",
-        labels={"xg_home": "Expectativa de gols do Mandante", "xg_away": "Expectativa de gols do Visitante"},
+        labels={
+            "xg_home": "Expectativa de gols do Mandante",
+            "xg_away": "Expectativa de gols do Visitante",
+            "total_goals": "Total de gols",
+            "resultado": "Resultado",
+        },
     )
     max_v = max(plot_df["xg_home"].max(), plot_df["xg_away"].max()) + 0.2
     fig.add_shape(type="line", x0=0, y0=0, x1=max_v, y1=max_v,
@@ -429,7 +443,11 @@ with tab5:
         fig = px.scatter(
             split_df, x="eff_1h", y="eff_2h", text="team",
             title="Eficiência 1ª metade × Eficiência 2ª metade",
-            labels={"eff_1h": "Δ médio por jogo — 1ª metade", "eff_2h": "Δ médio por jogo — 2ª metade"},
+            labels={
+                "eff_1h": "Δ médio por jogo (1ª metade)",
+                "eff_2h": "Δ médio por jogo (2ª metade)",
+                "team": "Time",
+            },
         )
         fig.update_traces(textposition="top center")
         fig.add_hline(y=0, line_dash="dot", line_color="gray")
