@@ -1,15 +1,20 @@
+# Monta os arquivos da pasta data a partir dos JSON brutos da API
+# Para rodar: python build_dataset.py
+
 import json
 from pathlib import Path
 import pandas as pd
 import numpy as np
 from scipy.stats import poisson, ttest_1samp
 
+# Pastas dos dados brutos e dos arquivos gerados
 BASE = Path(__file__).parent
 RAW = BASE / "extracted" / "raw_json"
 OUT = BASE / "data"
 OUT.mkdir(exist_ok=True)
 
 
+# Junta os arquivos de uma base, como matches_finished.json e matches_finished_2025.json
 def load_json_glob(stem: str):
     files = []
     base = RAW / f"{stem}.json"
@@ -40,6 +45,7 @@ def load_json_glob(stem: str):
     return combined if is_list else combined_dict
 
 
+# Lê os jogos finalizados e padroniza os nomes das colunas
 matches = load_json_glob("matches_finished")
 df_matches = pd.json_normalize(matches)
 
@@ -57,15 +63,18 @@ df_matches = df_matches.rename(columns={
 df_matches["utc_date"] = pd.to_datetime(df_matches["utc_date"], errors="coerce", utc=True)
 df_matches["season_year"] = df_matches["utc_date"].dt.year.astype("Int64")
 
+# Lê o resumo de xG de cada jogo
 xg = load_json_glob("xg_summaries")
 df_xg = pd.DataFrame(xg)
 
+# Lê as estatísticas de cada jogo: xG, posse, chutes e grandes chances
 stats = load_json_glob("match_stats")
 rows = []
 for s in stats:
     d = s.get("data", s) if isinstance(s, dict) else {}
     mid = d.get("match_id")
     ov = d.get("overview", {})
+    # Pega os valores de mandante e visitante de uma estatística
     def get_home_away(key, sub="all"):
         node = ov.get(key, {}).get(sub, {})
         return node.get("home"), node.get("away")
@@ -89,11 +98,13 @@ for s in stats:
     })
 df_stats = pd.DataFrame(rows)
 
+# Junta tudo e mantém só os jogos com xG dos dois times
 df = df_matches.merge(df_xg, on="match_id", how="left")
 df = df.merge(df_stats, on="match_id", how="left")
 df = df[df["xg_home"].notna() & df["xg_away"].notna()].copy()
 
 
+# Calcula os pontos esperados de um jogo, com os gols em distribuição de Poisson
 def xpoints_from_xg(xh, xa, max_goals=10):
     h = np.array([poisson.pmf(k, xh) for k in range(max_goals + 1)])
     a = np.array([poisson.pmf(k, xa) for k in range(max_goals + 1)])
@@ -104,6 +115,7 @@ def xpoints_from_xg(xh, xa, max_goals=10):
     return 3 * p_home + p_draw, 3 * p_away + p_draw, p_home, p_draw, p_away
 
 
+# Aplica o cálculo de pontos esperados em todos os jogos
 xp = []
 for _, r in df.iterrows():
     xh, xa = float(r["xg_home"]), float(r["xg_away"])
@@ -111,12 +123,14 @@ for _, r in df.iterrows():
 df[["xpts_home", "xpts_away", "p_home", "p_draw", "p_away"]] = pd.DataFrame(xp, index=df.index)
 
 
+# Devolve os pontos reais de mandante e visitante
 def real_points(gh, ga):
     if gh > ga: return 3, 0
     if gh < ga: return 0, 3
     return 1, 1
 
 
+# Pontos, resultado e diferença entre o real e o esperado
 df[["pts_home", "pts_away"]] = df.apply(
     lambda r: pd.Series(real_points(r["goals_home"], r["goals_away"])), axis=1
 )
@@ -128,9 +142,11 @@ df["goal_diff_away"] = df["goals_away"] - df["xg_away"]
 df["pts_diff_home"] = df["pts_home"] - df["xpts_home"]
 df["pts_diff_away"] = df["pts_away"] - df["xpts_away"]
 
+# Salva a tabela de jogos
 df.to_csv(OUT / "matches_xg.csv", index=False)
 print(f"matches_xg.csv salvo com {len(df)} jogos | temporadas: {sorted(df['season_year'].dropna().unique().tolist())}")
 
+# Monta a tabela com uma linha por time em cada jogo
 home = df[[
     "season_year", "competition_name", "home_team", "home_team_id",
     "goals_home", "goals_away", "xg_home", "xg_away",
@@ -158,6 +174,7 @@ long = pd.concat([home, away], ignore_index=True)
 long.to_csv(OUT / "team_games_long.csv", index=False)
 
 
+# Resume um time: totais, diferença média e teste t da diferença entre gols e xG
 def agg_team(g):
     diffs = (g["goals_for"] - g["xg_for"]).values
     n = len(diffs)
@@ -182,6 +199,7 @@ def agg_team(g):
     })
 
 
+# Calcula o resumo de cada time em cada temporada
 team_summary = (
     long.groupby(["season_year", "competition_name", "team", "team_id"], dropna=False)
         .apply(agg_team, include_groups=False)
@@ -189,6 +207,7 @@ team_summary = (
 )
 
 
+# Classifica o time pelo p-valor e pelo sinal da diferença média
 def classify(row, alpha=0.10):
     if pd.isna(row["p_value"]) or row["games"] < 4:
         return "Amostra pequena"
@@ -199,13 +218,16 @@ def classify(row, alpha=0.10):
 
 team_summary["classificacao"] = team_summary.apply(classify, axis=1)
 
+# Calcula as médias por jogo
 for c in ["xg_for", "xg_against", "goals_for", "goals_against", "pts", "xpts"]:
     team_summary[f"{c}_per_game"] = (team_summary[c] / team_summary["games"]).round(3)
 
+# Ordena e salva o resumo dos times
 team_summary = team_summary.sort_values(["season_year", "off_diff_per_game"], ascending=[True, False])
 team_summary.to_csv(OUT / "team_summary.csv", index=False)
 print(f"team_summary.csv salvo com {len(team_summary)} linhas (temporada × time)")
 
+# Mostra no terminal os times mais e menos eficientes
 print("\n--- Top 5 EFICIENTES (média de gols feitos − xG feito por jogo) ---")
 print(team_summary.sort_values("off_diff_per_game", ascending=False).head(5)[
     ["season_year", "competition_name", "team", "games", "goals_for", "xg_for",

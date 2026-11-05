@@ -6,13 +6,17 @@ import plotly.graph_objects as go
 from scipy import stats
 from pathlib import Path
 
+# Configuração da página
 st.set_page_config(
     page_title="Eficiência xG no Brasileirão",
     layout="wide",
 )
+# Pasta dos dados
 DATA = Path(__file__).parent / "data"
 
 
+# Lê os três arquivos gerados pelo build_dataset.py
+# @st.cache_data guarda na memória para não reler a cada clique
 @st.cache_data
 def load_data():
     matches = pd.read_csv(DATA / "matches_xg.csv", parse_dates=["utc_date"])
@@ -23,12 +27,14 @@ def load_data():
 
 matches, teams, long = load_data()
 
+# Título
 st.title("Eficiência ou Ineficiência?")
 st.markdown(
     "**Análise de Expected Goals (xG) no Brasileirão:** "
     "Quem aproveita as oportunidades que cria e quem as desperdiça?"
 )
 
+# Filtros da barra lateral
 st.sidebar.header("Filtros")
 anos_disp = sorted(matches["season_year"].dropna().astype(int).unique().tolist())
 anos_label = ["Todas"] + [str(a) for a in anos_disp]
@@ -37,6 +43,7 @@ ano_sel = st.sidebar.selectbox("Temporada", anos_label, index=len(anos_label) - 
 comps_disp = ["Todas"] + sorted(matches["competition_name"].dropna().unique().tolist())
 comp_sel = st.sidebar.selectbox("Competição", comps_disp)
 
+# Aplica os filtros nas três tabelas
 matches_f = matches.copy()
 teams_f = teams.copy()
 long_f = long.copy()
@@ -49,13 +56,16 @@ if comp_sel != "Todas":
     teams_f = teams_f[teams_f["competition_name"] == comp_sel]
     long_f = long_f[long_f["competition_name"] == comp_sel]
 
+# Interrompe o app se a combinação de filtros não tiver jogos
 if len(matches_f) == 0:
     st.warning("Nenhum jogo encontrado com esses filtros.")
     st.stop()
 
+# Mostra até quando vão os dados
 ultimo_jogo = matches_f["utc_date"].max().strftime("%d/%m/%Y")
 st.caption(f"{len(matches_f)} jogos analisados, até {ultimo_jogo}.")
 
+# Abas
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📊 Visão Geral",
     "⚡ Eficiência (Top)",
@@ -64,6 +74,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "🔬 Validação Estatística",
 ])
 
+# Aba 1: panorama, explicação do xG e distribuição dos gols
 with tab1:
     st.subheader("Panorama")
     c1, c2, c3, c4 = st.columns(4)
@@ -133,6 +144,7 @@ with tab1:
         )
         st.plotly_chart(fig, width="stretch")
 
+# Aba 2: ranking e tabela de eficiência dos times
 with tab2:
     st.subheader("Times Eficientes × Ineficientes")
     st.markdown(
@@ -195,6 +207,7 @@ with tab2:
     display["% de jogos acima do esperado"] = (display["% de jogos acima do esperado"] * 100).round(1).astype(str) + "%"
     display["p-valor"] = display["p-valor"].round(3)
 
+    # Pinta a linha com a cor da classificação do time
     def color_row_by_class(row):
         cls = row["Classificação"]
         if cls == "Eficiente":
@@ -217,6 +230,7 @@ with tab2:
         "🟡 **Neutro:** diferença não é estatisticamente significativa, gols ≈ xG."
     )
 
+# Aba 3: eficiência de um time ao longo da temporada
 with tab3:
     st.subheader("Análise individual")
     times_disp = sorted(teams_f["team"].unique().tolist())
@@ -282,6 +296,7 @@ with tab3:
                     "Expectativa de gols feitos", "Expectativa de gols sofridos",
                     "Pontos", "Expectativa de pontos", "Diferença (Gols − Expectativa)"]
 
+    # Pinta a linha conforme a diferença entre gols e expectativa
     def color_row_by_diff(row):
         v = row["Diferença (Gols − Expectativa)"]
         if v > 0.1:
@@ -298,6 +313,7 @@ with tab3:
         "🟡 **Amarelo:** **diferença pequena** entre gols e expectativa (entre −0.1 e +0.1): jogo dentro do esperado."
     )
 
+# Aba 4: comparação entre mandante e visitante em cada jogo
 with tab4:
     st.subheader("Jogo a jogo: Expectativa de gols do mandante vs do visitante")
     st.markdown("Cada bolinha = um jogo. Cor = resultado real. Tamanho = total de gols.")
@@ -345,6 +361,7 @@ with tab4:
 
     st.markdown("---")
     st.markdown("### Vitórias com menos Expectativa de gols que o adversário (jogos 'pegados')")
+    # Vitórias de quem criou bem menos chances que o adversário
     plot_df["xg_diff"] = plot_df["xg_home"] - plot_df["xg_away"]
     pega_mand = plot_df[(plot_df["result"] == "H") & (plot_df["xg_diff"] < -0.5)].nsmallest(5, "xg_diff")
     pega_vis = plot_df[(plot_df["result"] == "A") & (plot_df["xg_diff"] > 0.5)].nlargest(5, "xg_diff")
@@ -365,9 +382,11 @@ with tab4:
         "o desempenho esperado e o resultado obtido."
     )
 
+# Aba 5: testes estatísticos e conclusões
 with tab5:
     st.subheader("xG prevê gols? A eficiência persiste?")
 
+    # Correlação e regressão entre xG e gols
     x = pd.concat([matches_f["xg_home"], matches_f["xg_away"]]).values
     y = pd.concat([matches_f["goals_home"], matches_f["goals_away"]]).values
     pearson_r, pearson_p = stats.pearsonr(x, y)
@@ -403,6 +422,7 @@ with tab5:
         "Se for ruído estatístico, a correlação entre as duas metades é próxima de zero."
     )
 
+    # Calcula a eficiência média de cada time na 1ª e na 2ª metade dos seus jogos
     def split_eff(jogos, times):
         rows = []
         for team in times:
@@ -452,6 +472,7 @@ with tab5:
 
     st.markdown("---")
     st.markdown("### Conclusões principais")
+    # Monta as conclusões a partir dos dados filtrados
     top_eff = teams_f[teams_f["classificacao"] == "Eficiente"].sort_values("off_diff_per_game", ascending=False)
     top_inef = teams_f[teams_f["classificacao"] == "Ineficiente"].sort_values("off_diff_per_game")
     bullets = [
