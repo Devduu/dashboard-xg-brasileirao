@@ -202,7 +202,7 @@ with tab2:
             bg = "background-color: rgba(127,140,141,0.20)"
         return [bg] * len(row)
 
-    styled = display.style.apply(color_row_by_class, axis=1)
+    styled = display.style.apply(color_row_by_class, axis=1).format(precision=3)
     st.dataframe(styled, width="stretch", hide_index=True)
     st.info(
         "🟢 **Eficiente** — diferença é estatisticamente significativa (p < 0.10) e positiva. "
@@ -285,7 +285,7 @@ with tab3:
             return ["background-color: rgba(192,57,43,0.20)"] * len(row)
         return ["background-color: rgba(241,196,15,0.20)"] * len(row)
 
-    styled_show = show.style.apply(color_row_by_diff, axis=1)
+    styled_show = show.style.apply(color_row_by_diff, axis=1).format(precision=2)
     st.dataframe(styled_show, width="stretch", hide_index=True)
     st.info(
         "🟢 **Verde** — o time marcou **mais** que a expectativa no jogo, indicando **eficiência positiva** naquela partida.\n\n"
