@@ -400,7 +400,7 @@ with tab5:
     slope, intercept, r_value, p_value, std_err = stats.linregress(x, y)
     st.markdown(f"**Regressão linear:** `Gols = {slope:.3f} × xG + {intercept:.3f}` (R² = {r_value**2:.3f})")
     st.markdown(
-        f"A cada **1 unidade** de xG, em média **{slope:.2f} gols reais** são marcados. "
+        f"A cada **1 unidade a mais** de xG, o modelo prevê em média **{slope:.2f} gol a mais**. "
         "Um coeficiente igual a 1 significaria que os gols acompanham o xG na mesma proporção."
     )
 
