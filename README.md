@@ -31,7 +31,7 @@ O app abre em [http://localhost:8501](http://localhost:8501).
 |-----|----------|
 | **Visão Geral** | KPIs do campeonato, distribuição de gols vs expectativa |
 | **Eficiência (Top)** | Ranking de times Eficientes 🟢, Ineficientes 🔴 e Neutros 🟡 |
-| **Análise por Time** | Eficiência rodada a rodada, com média móvel e cumulativo |
+| **Análise por Time** | Eficiência jogo a jogo, com média móvel e cumulativo |
 | **Análise por Jogo** | Dispersão de expectativa mandante × visitante e jogos com inversão estatística |
 | **Validação Estatística** | Correlações, regressão linear e teste de persistência |
 
@@ -43,6 +43,7 @@ Para cada time, calculamos a diferença por jogo: `Δᵢ = gols_feitos − expec
 
 Aplicamos um **teste t one-sample** com `H₀: média(Δ) = 0`:
 
+- menos de 4 jogos → ⚪ **Amostra pequena**
 - p-valor < 0.10 e média(Δ) > 0 → 🟢 **Eficiente**
 - p-valor < 0.10 e média(Δ) < 0 → 🔴 **Ineficiente**
 - caso contrário → 🟡 **Neutro**
