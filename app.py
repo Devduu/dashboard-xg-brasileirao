@@ -231,7 +231,7 @@ with tab2:
         "🟡 **Neutro:** diferença não é estatisticamente significativa, gols ≈ xG."
     )
 
-# Aba 3: eficiência de um time ao longo da temporada
+# Aba 3: eficiência de um time ao longo dos jogos analisados
 with tab3:
     st.subheader("Análise individual")
     times_disp = sorted(teams_f["team"].unique().tolist())
@@ -418,7 +418,7 @@ with tab5:
     st.markdown("### A eficiência **persiste**? Teste split-half")
     st.markdown(
         "Se a eficiência for **habilidade real** (time tem finalizadores acima da média), "
-        "ela deve persistir: o time que foi eficiente na **1ª metade** da temporada "
+        "ela deve persistir: o time que foi eficiente na **1ª metade** dos jogos analisados "
         "tende a continuar eficiente na **2ª metade**. "
         "\n\n"
         "Se for ruído estatístico, a correlação entre as duas metades é próxima de zero."
@@ -498,7 +498,7 @@ with tab5:
     bullets.append(
         "**Importante:** alta eficiência não implica que o time vai necessariamente piorar nas próximas rodadas. "
         "O teste acima mostra o quanto essa eficiência persiste na amostra atual. "
-        "Com uma temporada só, não dá para concluir sobre prazos maiores."
+        "Com parte de uma temporada, não dá para concluir sobre prazos maiores."
     )
     for b in bullets:
         st.markdown(f"- {b}")
@@ -520,5 +520,5 @@ Aplicamos um **teste t one-sample** (H₀: média(Δ) = 0) para decidir se a dif
 estatisticamente significativa (α = 0.10). Sinal positivo → **Eficiente**; negativo → **Ineficiente**;
 não significativo → **Neutro**. Times com menos de 4 jogos: **Amostra pequena**.
 
-**Persistência:** correlação Pearson entre a eficiência média da 1ª metade e da 2ª metade da temporada.
+**Persistência:** correlação Pearson entre a eficiência média da 1ª metade e da 2ª metade dos jogos analisados.
 """)
