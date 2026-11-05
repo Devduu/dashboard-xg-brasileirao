@@ -116,14 +116,7 @@ with tab1:
         agg = matches_f.copy()
         agg["total_goals"] = agg["goals_home"] + agg["goals_away"]
         agg["total_xg"] = agg["xg_home"] + agg["xg_away"]
-        if comp_sel == "Todas":
-            grp = agg.groupby("competition_name")[["total_goals", "total_xg"]].mean().reset_index()
-        else:
-            grp = pd.DataFrame({
-                "competition_name": [comp_sel],
-                "total_goals": [agg["total_goals"].mean()],
-                "total_xg": [agg["total_xg"].mean()],
-            })
+        grp = agg.groupby("competition_name")[["total_goals", "total_xg"]].mean().reset_index()
         fig = go.Figure()
         fig.add_trace(go.Bar(
             x=grp["competition_name"], y=grp["total_goals"],
@@ -285,10 +278,7 @@ with tab3:
                     "Pontos", "Expectativa de pontos", "Diferença (Gols − Expectativa)"]
 
     def color_row_by_diff(row):
-        try:
-            v = float(row["Diferença (Gols − Expectativa)"])
-        except (TypeError, ValueError):
-            return [""] * len(row)
+        v = row["Diferença (Gols − Expectativa)"]
         if v > 0.1:
             return ["background-color: rgba(39,174,96,0.20)"] * len(row)
         if v < -0.1:
@@ -403,19 +393,20 @@ with tab5:
         "Se for ruído estatístico, a correlação entre as duas metades é próxima de zero."
     )
 
-    def split_eff(matches_df, teams_list):
+    def split_eff(jogos, times):
         rows = []
-        for team in teams_list:
-            allg = long_f[long_f["team"] == team].sort_values("utc_date").reset_index(drop=True)
+        for team in times:
+            allg = jogos[jogos["team"] == team].sort_values("utc_date").reset_index(drop=True)
             n = len(allg)
-            if n < 4: continue
+            if n < 4:
+                continue
             mid = n // 2
             e1 = (allg.iloc[:mid]["goals_for"] - allg.iloc[:mid]["xg_for"]).mean()
             e2 = (allg.iloc[mid:]["goals_for"] - allg.iloc[mid:]["xg_for"]).mean()
             rows.append({"team": team, "eff_1h": e1, "eff_2h": e2})
         return pd.DataFrame(rows)
 
-    split_df = split_eff(matches_f, teams_f["team"].unique())
+    split_df = split_eff(long_f, teams_f["team"].unique())
     if len(split_df) >= 5:
         r_split, p_split = stats.pearsonr(split_df["eff_1h"], split_df["eff_2h"])
         st.metric("Correlação eficiência 1ª × 2ª metade", f"{r_split:.3f}",
