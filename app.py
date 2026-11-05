@@ -410,6 +410,10 @@ with tab5:
         title="Relação xG × Gols reais (por equipe/jogo)",
         trendline="ols", trendline_color_override="red", opacity=0.6,
     )
+    fig.update_traces(
+        hovertemplate="Reta de regressão<br>xG=%{x:.2f}<br>Gols previstos=%{y:.2f}<extra></extra>",
+        selector=dict(mode="lines"),
+    )
     fig.add_shape(type="line", x0=0, y0=0, x1=max(x.max(), y.max()),
                   y1=max(x.max(), y.max()), line=dict(color="gray", dash="dot"))
     st.plotly_chart(fig, width="stretch")
