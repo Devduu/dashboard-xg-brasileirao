@@ -7,7 +7,7 @@ from scipy import stats
 from pathlib import Path
 
 st.set_page_config(
-    page_title="Eficiência xG — Brasileirão",
+    page_title="Eficiência xG no Brasileirão",
     layout="wide",
 )
 DATA = Path(__file__).parent / "data"
@@ -25,7 +25,7 @@ matches, teams, long = load_data()
 
 st.title("Eficiência ou Ineficiência?")
 st.markdown(
-    "**Análise de Expected Goals (xG) no Brasileirão** — "
+    "**Análise de Expected Goals (xG) no Brasileirão:** "
     "Quem aproveita as oportunidades que cria e quem as desperdiça?"
 )
 
@@ -53,12 +53,8 @@ if len(matches_f) == 0:
     st.warning("Nenhum jogo encontrado com esses filtros.")
     st.stop()
 
-ano_min, ano_max = int(matches_f["season_year"].min()), int(matches_f["season_year"].max())
-if ano_min == ano_max:
-    st.caption(f"Dados atuais: **{ano_min}** ({len(matches_f)} jogos). "
-               "O filtro de temporada já suporta múltiplos anos quando houver dados disponíveis.")
-else:
-    st.caption(f"Cobertura: **{ano_min}–{ano_max}** ({len(matches_f)} jogos).")
+ultimo_jogo = matches_f["utc_date"].max().strftime("%d/%m/%Y")
+st.caption(f"{len(matches_f)} jogos analisados, até {ultimo_jogo}.")
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📊 Visão Geral",
@@ -190,14 +186,14 @@ with tab2:
             "pct_overperform", "p_value", "classificacao"]
     display = teams_f[cols].sort_values("off_diff_per_game", ascending=False).reset_index(drop=True)
     display.columns = ["Ano", "Liga", "Time", "Jogos", "Gols feitos", "Expectativa de gols feitos",
-                       "Média da diferença por jogo", "% de jogos acima do esperado", "Prova estatística", "Classificação"]
+                       "Média da diferença por jogo", "% de jogos acima do esperado", "p-valor", "Classificação"]
     display["Ano"] = display["Ano"].astype(int)
     display["Jogos"] = display["Jogos"].astype(int)
     display["Gols feitos"] = display["Gols feitos"].astype(int)
     display["Expectativa de gols feitos"] = display["Expectativa de gols feitos"].round(2)
     display["Média da diferença por jogo"] = display["Média da diferença por jogo"].round(3)
     display["% de jogos acima do esperado"] = (display["% de jogos acima do esperado"] * 100).round(1).astype(str) + "%"
-    display["Prova estatística"] = display["Prova estatística"].round(3)
+    display["p-valor"] = display["p-valor"].round(3)
 
     def color_row_by_class(row):
         cls = row["Classificação"]
@@ -214,11 +210,11 @@ with tab2:
     styled = display.style.apply(color_row_by_class, axis=1).format(precision=3)
     st.dataframe(styled, width="stretch", hide_index=True)
     st.info(
-        "🟢 **Eficiente** — diferença é estatisticamente significativa (p < 0.10) e positiva. "
-        "Indica que o time tem **finalizadores acima da média**.\n\n"
-        "🔴 **Ineficiente** — diferença significativa e negativa. "
+        "🟢 **Eficiente:** diferença é estatisticamente significativa (p < 0.10) e positiva. "
+        "Pode indicar que o time tem **finalizadores acima da média**.\n\n"
+        "🔴 **Ineficiente:** diferença significativa e negativa. "
         "O time **cria, mas desperdiça** as chances.\n\n"
-        "🟡 **Neutro** — diferença não é estatisticamente significativa: gols ≈ xG."
+        "🟡 **Neutro:** diferença não é estatisticamente significativa, gols ≈ xG."
     )
 
 with tab3:
@@ -297,9 +293,9 @@ with tab3:
     styled_show = show.style.apply(color_row_by_diff, axis=1).format(precision=2)
     st.dataframe(styled_show, width="stretch", hide_index=True)
     st.info(
-        "🟢 **Verde** — o time marcou **mais** que a expectativa no jogo, indicando **eficiência positiva** naquela partida.\n\n"
-        "🔴 **Vermelho** — o time marcou **menos** que a expectativa, ou seja, **desperdiçou as chances** que criou.\n\n"
-        "🟡 **Amarelo** — **diferença pequena** entre gols e expectativa (entre −0.1 e +0.1): jogo dentro do esperado."
+        "🟢 **Verde:** o time marcou **mais** que a expectativa no jogo, indicando **eficiência positiva** naquela partida.\n\n"
+        "🔴 **Vermelho:** o time marcou **menos** que a expectativa, ou seja, **desperdiçou as chances** que criou.\n\n"
+        "🟡 **Amarelo:** **diferença pequena** entre gols e expectativa (entre −0.1 e +0.1): jogo dentro do esperado."
     )
 
 with tab4:
@@ -338,7 +334,7 @@ with tab4:
 
     st.info(
         "**Como ler o gráfico:**\n\n"
-        "A **linha pontilhada na diagonal** representa o **equilíbrio** — jogos onde os dois times criaram a mesma quantidade de chances.\n\n"
+        "A **linha pontilhada na diagonal** representa o **equilíbrio**: jogos onde os dois times criaram a mesma quantidade de chances.\n\n"
         "• Bolinhas **abaixo da linha** → o **mandante** criou MAIS chances\n\n"
         "• Bolinhas **acima da linha** → o **visitante** criou MAIS chances\n\n"
         "• 🟢 Verde = Vitória do Mandante\n\n"
@@ -384,7 +380,7 @@ with tab5:
     st.markdown(f"**Regressão linear:** `Gols = {slope:.3f} × xG + {intercept:.3f}` (R² = {r_value**2:.3f})")
     st.markdown(
         f"A cada **1 unidade** de xG, em média **{slope:.2f} gols reais** são marcados. "
-        f"Coeficiente próximo de 1 indica que xG é um estimador não-viesado da taxa real de gols."
+        "Um coeficiente igual a 1 significaria que os gols acompanham o xG na mesma proporção."
     )
 
     fig = px.scatter(
@@ -428,7 +424,7 @@ with tab5:
         if abs(r_split) >= 0.4:
             st.success(
                 f"**Correlação relevante ({r_split:.2f}):** a eficiência **persiste** entre as duas metades, "
-                f"sugerindo que parte é habilidade real — não apenas variância amostral."
+                f"sugerindo que parte é habilidade real, e não apenas variância amostral."
             )
         elif abs(r_split) <= 0.2:
             st.info(
@@ -459,27 +455,27 @@ with tab5:
     top_eff = teams_f[teams_f["classificacao"] == "Eficiente"].sort_values("off_diff_per_game", ascending=False)
     top_inef = teams_f[teams_f["classificacao"] == "Ineficiente"].sort_values("off_diff_per_game")
     bullets = [
-        f"**xG é um bom preditor de gols** — correlação de Pearson **{pearson_r:.2f}** "
-        f"(p < 0.001), validando a métrica como estimador de qualidade de finalizações.",
+        f"**xG ajuda a prever gols**: correlação de Pearson **{pearson_r:.2f}** "
+        f"(p-valor = {pearson_p:.2e}), o que apoia o uso da métrica como estimador de qualidade de finalizações.",
     ]
     if len(top_eff) > 0:
         t = top_eff.iloc[0]
         bullets.append(
             f"**Mais eficiente** ({int(t['season_year'])}): **{t['team']}** "
-            f"— média de **+{t['off_diff_per_game']:.2f}** gols/jogo acima do xG, "
+            f"com média de **{t['off_diff_per_game']:.2f}** gols/jogo acima do xG, "
             f"p-valor = {t['p_value']:.3f}."
         )
     if len(top_inef) > 0:
         t = top_inef.iloc[0]
         bullets.append(
             f"**Mais ineficiente** ({int(t['season_year'])}): **{t['team']}** "
-            f"— média de **{t['off_diff_per_game']:.2f}** gols/jogo abaixo do xG, "
+            f"com média de **{abs(t['off_diff_per_game']):.2f}** gols/jogo abaixo do xG, "
             f"p-valor = {t['p_value']:.3f}."
         )
     bullets.append(
         "**Importante:** alta eficiência não implica que o time vai necessariamente piorar nas próximas rodadas. "
-        "Times com finalizadores de elite mantêm essa diferença ao longo de várias temporadas. "
-        "A aba **Validação Estatística** mostra o quanto essa eficiência persiste na amostra atual."
+        "O teste acima mostra o quanto essa eficiência persiste na amostra atual. "
+        "Com uma temporada só, não dá para concluir sobre prazos maiores."
     )
     for b in bullets:
         st.markdown(f"- {b}")
