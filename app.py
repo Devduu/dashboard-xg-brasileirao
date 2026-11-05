@@ -111,7 +111,7 @@ with tab1:
             title="Distribuição de gols vs xG (por equipe/jogo)",
             xaxis_title="Quantidade", yaxis_title="Frequência", height=400,
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     with col2:
         agg = matches_f.copy()
         agg["total_goals"] = agg["goals_home"] + agg["goals_away"]
@@ -142,7 +142,7 @@ with tab1:
             title="Média de gols por jogo: real vs esperado",
             yaxis_title="Por jogo", height=400,
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
 with tab2:
     st.subheader("Times Eficientes × Ineficientes")
@@ -179,7 +179,7 @@ with tab2:
     )
     fig.update_layout(height=max(450, 25 * len(df_plot)))
     fig.add_vline(x=0, line_dash="dot", line_color="black")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.markdown("### Tabela completa")
@@ -210,7 +210,7 @@ with tab2:
         return [bg] * len(row)
 
     styled = display.style.apply(color_row_by_class, axis=1)
-    st.dataframe(styled, use_container_width=True, hide_index=True)
+    st.dataframe(styled, width="stretch", hide_index=True)
     st.info(
         "🟢 **Eficiente** — diferença é estatisticamente significativa (p < 0.10) e positiva. "
         "Indica que o time tem **finalizadores acima da média**.\n\n"
@@ -270,7 +270,7 @@ with tab3:
         height=450, hovermode="x unified",
     )
     fig.add_hline(y=0, line_dash="dot", line_color="gray")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.markdown("### Detalhamento jogo a jogo")
     show = hist[["rodada", "venue", "goals_for", "goals_against",
@@ -296,7 +296,7 @@ with tab3:
         return ["background-color: rgba(241,196,15,0.20)"] * len(row)
 
     styled_show = show.style.apply(color_row_by_diff, axis=1)
-    st.dataframe(styled_show, use_container_width=True, hide_index=True)
+    st.dataframe(styled_show, width="stretch", hide_index=True)
     st.info(
         "🟢 **Verde** — o time marcou **mais** que a expectativa no jogo, indicando **eficiência positiva** naquela partida.\n\n"
         "🔴 **Vermelho** — o time marcou **menos** que a expectativa, ou seja, **desperdiçou as chances** que criou.\n\n"
@@ -330,7 +330,7 @@ with tab4:
     fig.add_shape(type="line", x0=0, y0=0, x1=max_v, y1=max_v,
                   line=dict(color="gray", dash="dot"))
     fig.update_layout(height=550)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.info(
         "**Como ler o gráfico:**\n\n"
@@ -353,7 +353,7 @@ with tab4:
     for c in ["xg_home", "xg_away", "xg_diff"]:
         sh[c] = sh[c].round(2)
     sh.columns = ["Jogo", "Expectativa de gols do Mandante", "Expectativa de gols do Visitante", "Diferença"]
-    st.dataframe(sh, use_container_width=True, hide_index=True)
+    st.dataframe(sh, width="stretch", hide_index=True)
     st.info(
         "**Como interpretar a coluna Diferença:**\n\n"
         "Calculada como: **Expectativa do Mandante − Expectativa do Visitante**.\n\n"
@@ -391,7 +391,7 @@ with tab5:
     )
     fig.add_shape(type="line", x0=0, y0=0, x1=max(x.max(), y.max()),
                   y1=max(x.max(), y.max()), line=dict(color="gray", dash="dot"))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.markdown("### A eficiência **persiste**? Teste split-half")
@@ -443,7 +443,7 @@ with tab5:
         fig.update_traces(textposition="top center")
         fig.add_hline(y=0, line_dash="dot", line_color="gray")
         fig.add_vline(x=0, line_dash="dot", line_color="gray")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.markdown("### Conclusões principais")
