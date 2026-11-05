@@ -252,7 +252,7 @@ with tab3:
     if len(hist) >= 3:
         hist["rolling_3"] = hist["diff_goals_xg"].rolling(3, min_periods=1).mean()
 
-    st.markdown(f"### Eficiência do **{time_sel}** ao longo da temporada")
+    st.markdown(f"### Eficiência ao longo dos jogos analisados: **{time_sel}**")
     fig = go.Figure()
     bar_colors = np.where(
         hist["diff_goals_xg"] > 0.1, "#27ae60",
