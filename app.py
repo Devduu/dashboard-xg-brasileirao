@@ -188,6 +188,7 @@ with tab2:
                     "off_diff_per_game": False, "classificacao": False},
     )
     fig.update_layout(height=max(450, 25 * len(df_plot)), yaxis_title="")
+    fig.update_yaxes(categoryorder="total ascending")  # maior diferença no topo
     fig.add_vline(x=0, line_dash="dot", line_color="black")
     st.plotly_chart(fig, width="stretch")
 
